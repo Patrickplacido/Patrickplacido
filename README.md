@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patrickplacido
-- 👀 I’m interested in a career transition to a full stack developer career
+- 👀 I’m looking forward to a carrer in software development
 - 🌱 I’m like to learn new things, and that's why I'm here
 - 📫 You can reach me by sending an email to patrickplacido@live.com
 
